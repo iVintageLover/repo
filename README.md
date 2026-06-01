@@ -1,1 +1,1 @@
-# Repo containing iVintageLover's Jailbreak Tweaks.
+# Repo containing MacVerse's Jailbreak Tweaks.
